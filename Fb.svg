@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>01_ICONS/32x32/Social/Fb</title>
+    <g id="00-Styles" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" opacity="0.7">
+        <g id="Icon" transform="translate(-71.000000, -707.000000)" fill="#FFFFFF" fill-rule="nonzero">
+            <g id="Combined-Shape-Copy-2" transform="translate(67.000000, 703.000000)">
+                <path d="M16,4 C22.6275,4 28,9.3725 28,16 C28,22.6275 22.6275,28 16,28 C9.3725,28 4,22.6275 4,16 C4,9.3725 9.3725,4 16,4 Z M18.8425,10.31625 L17.03875,10.31625 C15.54625,10.31625 14.45875,11.59 14.45875,13.1575 L14.45875,13.1575 L14.45875,14.25 L12.5275,14.25 L12.5275,16.1075 L14.45875,16.1075 L14.45875,21.68375 L16.5875,21.68375 L16.5875,16.1075 L18.5025,16.1075 L18.84375,14.25 L16.5875,14.25 L16.5875,12.9475 C16.5875,12.57375 16.825,12.2925 17.03875,12.2925 L17.03875,12.2925 L18.8425,12.2925 L18.8425,10.31625 Z"></path>
+            </g>
+        </g>
+    </g>
+</svg>
