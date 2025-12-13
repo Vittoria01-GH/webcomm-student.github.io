@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>01_ICONS/32x32/Social/YT</title>
+    <defs>
+        <filter color-interpolation-filters="auto" id="filter-1">
+            <feColorMatrix in="SourceGraphic" type="matrix" values="0 0 0 0 1.000000 0 0 0 0 1.000000 0 0 0 0 1.000000 0 0 0 1.000000 0"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="00-Styles" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" opacity="0.7">
+        <g id="Icon" transform="translate(-270.000000, -707.000000)">
+            <g id="youtube-with-circle" transform="translate(266.000000, 703.000000)" filter="url(#filter-1)">
+                <g transform="translate(4.480000, 4.480000)">
+                    <path d="M13.4436,11.3196 L10.7484,10.062 C10.5132,9.9528 10.32,10.0752 10.32,10.3356 L10.32,12.7044 C10.32,12.9648 10.5132,13.0872 10.7484,12.978 L13.4424,11.7204 C13.6788,11.61 13.6788,11.43 13.4436,11.3196 Z M11.52,0 C5.1576,0 0,5.1576 0,11.52 C0,17.8824 5.1576,23.04 11.52,23.04 C17.8824,23.04 23.04,17.8824 23.04,11.52 C23.04,5.1576 17.8824,0 11.52,0 Z M11.52,16.2 C5.6232,16.2 5.52,15.6684 5.52,11.52 C5.52,7.3716 5.6232,6.84 11.52,6.84 C17.4168,6.84 17.52,7.3716 17.52,11.52 C17.52,15.6684 17.4168,16.2 11.52,16.2 Z" id="Shape" fill="#FAFAFA" fill-rule="nonzero"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
